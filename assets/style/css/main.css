@@ -10242,4 +10242,9 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   text-align: center;
 }
 
+.spacer {
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+
 /*# sourceMappingURL=main.css.map */
